@@ -1,5 +1,4 @@
 #Pokemon Tamagotchi Klasse
-import random
 class Pokemon:
     def __init__(self, name, hp, max_hp, level=5, xp=0, freundschaft=70):
         self.name = name
